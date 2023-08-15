@@ -1,0 +1,62 @@
+/* hedy-lamarr.css */
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  .intro {
+      background-color: #3498db; /* Azul brilhante (Bluetooth) */
+      padding: 2rem;
+      border-radius: 10px;
+      margin-bottom: 2rem;
+    }
+    
+    .intro h2 {
+      color: white;
+      font-size: 24px;
+    }
+    
+    .intro-text p {
+      color: #444;
+      font-size: 18px;
+    }
+    
+    .intro-image img {
+      max-width: 100%;
+      border-radius: 10px;
+      display: inline-block; /* Manter a imagem em linha com o texto */
+    }
+
+    .intro-image {
+      text-align: center;
+      margin-top: 1rem; /* Adicione um espaço acima da imagem */
+    }
+    
+    .inventions {
+      margin-top: 2rem;
+      padding: 2rem;
+      background-color: #00bfff; /* Azul vibrante (Wi-Fi) */
+      border-radius: 10px;
+      color: white;
+    }
+    
+    .inspiration {
+      margin-top: 2rem;
+      padding: 2rem;
+      background-color: #3498db; /* Azul brilhante (Bluetooth) */
+      border-radius: 10px;
+      color: white;
+    }
+    
+    .inspiration h2,
+    .inventions h2 {
+      text-align: center;
+      font-size: 24px;
+    }
+    
+    .inventions p,
+    .inspiration p {
+      font-size: 18px;
+    }
+    
